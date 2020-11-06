@@ -39,6 +39,9 @@ h1, h2, h3{
 #nav ul{ 
 	list-style-type: none;
 	padding: 0px;
+	font-size: 24;
+	font-weight: bold;
+	font-color: red;
  }
 #nav .selected{
 	font-weight: bold;
