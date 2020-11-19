@@ -21,8 +21,8 @@ h1, h2, h3{
 	margin-right: auto;
 }
 #header {
-	background-color: #97a78a;
-	color: white;
+	background-color: #3d496f;
+	color: #fff5e7;
 	text-align: center;
 	padding: 35px;
 	font-size: 40;
@@ -56,8 +56,8 @@ h1, h2, h3{
 #footer{
 	clear: both;
 	padding: 10px;
-	background-color: #e9e5b8;
-	color: black;
+	background-color: #698561;
+	color: #fff5e7;
 	text-align: right;
 	font-size: 12;
 }
