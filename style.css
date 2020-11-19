@@ -1,3 +1,6 @@
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap" rel="stylesheet">
+
 body {
 	background-color: #EEE;
 	font-family: Arial;
@@ -26,6 +29,7 @@ h1, h2, h3{
 	text-align: center;
 	padding: 35px;
 	font-size: 40;
+	font-family: 'Oswald', sans-serif;
 }
 #content{
 	padding: 10px;
