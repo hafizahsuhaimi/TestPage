@@ -21,7 +21,7 @@ h1, h2, h3{
 	margin-right: auto;
 }
 #header {
-	background-color: #b6cfb6;
+	background-color: #97a78a;
 	color: white;
 	text-align: center;
 	padding: 35px;
@@ -56,7 +56,7 @@ h1, h2, h3{
 #footer{
 	clear: both;
 	padding: 10px;
-	background-color: #ffc8a2;
+	background-color: #e9e5b8;
 	color: black;
 	text-align: right;
 	font-size: 12;
